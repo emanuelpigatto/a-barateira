@@ -1,5 +1,5 @@
 Farmácia Barateira
-"Farmácia Barateira" é um sistema completo e moderno para a gestão eficiente de farmácias. Desenvolvido como um trabalho da disciplina de Engenharia de Software do 3º ano, este projeto demonstra a aplicação de boas práticas de programação, arquitetura de software e uso de uma stack tecnológica atual e robusta.
+"Farmácia Barateira" é um sistema completo e moderno para a gestão eficiente de farmácias. Desenvolvido como um trabalho da disciplina de Engenharia de Software do 4º ano, este projeto demonstra a aplicação de boas práticas de programação, arquitetura de software e uso de uma stack tecnológica atual e robusta.
 
 Visão Geral do Projeto
 O sistema foi projetado para otimizar processos internos de uma farmácia, abrangendo desde o controle de estoque de medicamentos e produtos até a gestão de vendas e relatórios de desempenho. O objetivo é fornecer uma ferramenta intuitiva e performática, que contribua para a redução de erros e o aumento da eficiência operacional.
